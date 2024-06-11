@@ -1,4 +1,4 @@
-# Javascript - Odin Project
+# Odin Project - Javascript
 
 ![Odin Project](https://github.com/bibliotecaosmar/Javascript_OdinProject/blob/main/assets/cover.png)
 ---
